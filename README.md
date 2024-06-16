@@ -1,6 +1,5 @@
 ## Hi, I'm @DmitriiKnyazkin
 ### My specialization is Data Analyst/Data Science
-### I'm interested in IOS, Python, HTML, CSS.
 ### I'm currently working.
 ### I want to collaborate with those who develop Internet devices, are interested in data analysis and data science.
 ### How to contact me:
